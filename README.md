@@ -26,8 +26,8 @@ The project includes the following visualizations:
 - Pandas for data manipulation.
 - Matplotlib and Seaborn for creating visualizations.
 
-Authors
+## Authors
 [Hafida Belayd]
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+## License
+This project is licensed under the MIT License (https://github.com/hafidaso/Human-Development-Index-HDI-/tree/main#:~:text=Last%20commit%20date-,LICENSE,-Create%20LICENSE) - see the LICENSE.md file for details.

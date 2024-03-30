@@ -27,7 +27,7 @@ The project includes the following visualizations:
 - Matplotlib and Seaborn for creating visualizations.
 
 ## Authors
-[Hafida Belayd]
+[Hafida Belayd](https://www.linkedin.com/in/hafida-belayd/)
 
 ## License
-This project is licensed under the MIT License (https://github.com/hafidaso/Human-Development-Index-HDI-/tree/main#:~:text=Last%20commit%20date-,LICENSE,-Create%20LICENSE) - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](https://github.com/hafidaso/Human-Development-Index-HDI-/tree/main#:~:text=Last%20commit%20date-,LICENSE,-Create%20LICENSE) - see the LICENSE.md file for details.
